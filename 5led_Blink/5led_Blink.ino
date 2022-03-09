@@ -1,8 +1,8 @@
 const int led1 = 13;
-const int led2 = 12;
-const int led3 = 11;
-const int led4 = 10;
-const int led5 = 9;
+const int led2 = 13;
+const int led3 = 13;
+const int led4 = 13;
+const int led5 = 13;
 
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
